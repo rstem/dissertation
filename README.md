@@ -4,6 +4,7 @@ Doctoral dissertation (PhD) in Carolina Health Informatics Program
 
 
 Chapter 2: Developing a word embedding model approach for social determinants of health terminology expansion 
+-Word2vec
 
 Chapter 3: Identification of SDH using multi-label classification of EHR clinical notes
 -ML_models
